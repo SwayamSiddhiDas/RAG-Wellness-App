@@ -1,0 +1,233 @@
+NEXTYOU WELLNESS KNOWLEDGE BASE (YOGA + WELLNESS)
+Version: 1.0
+Purpose: This document provides general wellness and yoga information for a Retrieval-Augmented Generation (RAG) assistant.
+Disclaimer: This is general wellness content, not medical advice.
+
+==================================================
+SECTION 1: INTRODUCTION TO YOGA
+==================================================
+Yoga is a mind-body practice that combines physical postures (asanas), breathing techniques (pranayama), and meditation.
+The goals of yoga include improving flexibility, strength, balance, posture, and mental calmness.
+Yoga is commonly used to support stress management, relaxation, and improved body awareness.
+
+Key benefits of yoga may include:
+- Improved flexibility in the hips, hamstrings, shoulders, and spine
+- Increased muscular endurance and strength
+- Better posture and spinal alignment
+- Enhanced balance and coordination
+- Improved breathing efficiency
+- Reduced perceived stress and better emotional regulation
+- Better sleep quality when practiced consistently
+
+Yoga should be practiced mindfully, respecting personal limits and avoiding pain.
+Beginners should focus on gentle movements, consistent breathing, and stable posture alignment.
+
+==================================================
+SECTION 2: GENERAL PRACTICE GUIDELINES
+==================================================
+Before starting yoga:
+- Wear comfortable clothing that allows easy movement.
+- Practice on a stable surface using a yoga mat.
+- Avoid heavy meals immediately before practice.
+- Move slowly and avoid forcing any stretch.
+- Focus on steady breathing instead of achieving a perfect shape.
+
+Breathing basics:
+- Inhale through the nose whenever possible.
+- Exhale slowly and fully.
+- Use breathing to guide movement: inhale to expand, exhale to release.
+
+Signs to stop or modify:
+- Sharp pain, dizziness, numbness, or difficulty breathing
+- Any discomfort that feels unsafe or worsening
+If discomfort occurs, return to a neutral position and rest.
+
+==================================================
+SECTION 3: SURYA NAMASKAR (SUN SALUTATION)
+==================================================
+Surya Namaskar is a sequence of yoga postures often practiced as a warm-up or full-body routine.
+It is commonly used to build strength, mobility, and rhythm with breath.
+
+Potential benefits of Surya Namaskar:
+- Improves overall flexibility (spine, hamstrings, shoulders)
+- Enhances blood circulation and body warmth
+- Builds strength in arms, legs, and core
+- Supports coordination between breath and movement
+- Helps improve focus and mental clarity
+
+Beginner-friendly tips:
+- Move slowly at first and learn posture alignment.
+- Keep the knees slightly bent in forward folds if hamstrings are tight.
+- Maintain smooth nasal breathing.
+- If needed, step back gently instead of jumping.
+
+General sequence outline:
+1. Standing posture (mountain pose / prayer pose)
+2. Forward fold
+3. Half lift
+4. Plank or step-back position
+5. Lowering down (knees-chest-chin or gentle lowering)
+6. Cobra or gentle backbend
+7. Downward facing dog
+8. Step forward to half lift
+9. Forward fold
+10. Return to standing
+
+==================================================
+SECTION 4: FOUNDATIONAL YOGA POSES
+==================================================
+
+4.1 TADASANA (MOUNTAIN POSE)
+Description:
+Tadasana is a simple standing posture that teaches alignment and balance.
+How to do:
+- Stand tall with feet hip-width apart.
+- Relax shoulders down and back.
+- Engage thighs lightly and lengthen the spine.
+- Breathe slowly through the nose.
+
+Benefits:
+- Improves posture and balance awareness
+- Builds foundational stability
+- Encourages steady breathing and calm focus
+
+4.2 ADHO MUKHA SVANASANA (DOWNWARD FACING DOG)
+Description:
+Downward Dog is an inverted V-shaped pose that stretches the posterior chain.
+How to do:
+- Start on hands and knees.
+- Lift hips upward, straighten arms, and lengthen the spine.
+- Keep knees slightly bent if needed.
+- Press hands firmly into the mat.
+
+Benefits:
+- Stretches hamstrings and calves
+- Strengthens shoulders and arms
+- Encourages spinal length and body awareness
+
+Beginner note:
+Do not force heels to the ground. Prioritize a long spine and steady breath.
+
+4.3 BHUJANGASANA (COBRA POSE)
+Description:
+Cobra Pose is a gentle backbend that opens the chest.
+How to do:
+- Lie on the stomach, palms under shoulders.
+- Inhale and lift the chest slightly.
+- Keep elbows softly bent and shoulders relaxed.
+
+Benefits:
+- Strengthens the back
+- Opens the chest and improves posture
+- Can support gentle spinal mobility
+
+4.4 BALASANA (CHILD’S POSE)
+Description:
+Child’s Pose is a resting posture for relaxation and recovery.
+How to do:
+- Kneel and fold forward, bringing forehead toward the mat.
+- Extend arms forward or rest alongside the body.
+- Breathe deeply.
+
+Benefits:
+- Calms the nervous system
+- Relaxes the back, hips, and shoulders
+- Useful between stronger postures
+
+==================================================
+SECTION 5: PRANAYAMA (BREATHING PRACTICES)
+==================================================
+Pranayama refers to breath regulation techniques used to improve focus and calm.
+
+5.1 DIAPHRAGMATIC BREATHING (BELLY BREATHING)
+How to do:
+- Sit comfortably with an upright spine.
+- Inhale slowly and feel the belly expand.
+- Exhale slowly and allow the belly to soften.
+
+Benefits:
+- Encourages relaxation response
+- Improves breathing efficiency
+- Can reduce stress perception
+
+5.2 NADI SHODHANA (ALTERNATE NOSTRIL BREATHING)
+How to do:
+- Sit upright.
+- Close right nostril, inhale through left.
+- Close left nostril, exhale through right.
+- Inhale through right, then exhale through left.
+Repeat slowly.
+
+Benefits:
+- Promotes calm focus
+- Helps regulate breathing rhythm
+- Often used before meditation
+
+Note:
+Breathing practices should be gentle, without strain or breath-holding for beginners.
+
+==================================================
+SECTION 6: MEDITATION AND MINDFULNESS
+==================================================
+Meditation is the practice of training attention and awareness.
+
+Simple mindfulness meditation:
+- Sit comfortably.
+- Focus on the breath entering and leaving the nose.
+- If thoughts arise, notice them and return attention to breathing.
+
+Benefits:
+- Improves concentration and emotional regulation
+- Encourages self-awareness
+- Supports relaxation and stress management
+
+Beginner tip:
+Start with 2 to 5 minutes daily and gradually increase time.
+
+==================================================
+SECTION 7: YOGA FOR RELAXATION (GENERAL)
+==================================================
+A gentle relaxation-focused yoga session may include:
+- Child’s Pose
+- Seated forward folds (gentle)
+- Supine twists (gentle)
+- Slow diaphragmatic breathing
+- Short meditation or body scan
+
+General guidance:
+Relaxation yoga should feel smooth and calm, not intense.
+Use props like cushions or folded blankets if needed for comfort.
+
+==================================================
+SECTION 8: FREQUENCY AND CONSISTENCY
+==================================================
+Yoga benefits are commonly seen with consistent practice.
+
+Suggested routine for beginners:
+- 10 to 20 minutes per session
+- 3 to 5 days per week
+- Focus on safe alignment and breathing
+
+Consistency matters more than intensity.
+Even short sessions can support flexibility and mindfulness over time.
+
+==================================================
+SECTION 9: SAFETY AND LIMITATIONS
+==================================================
+This assistant provides general wellness guidance only.
+It does not diagnose or treat medical conditions.
+
+If a user asks for medical advice, diagnosis, treatment, or cure:
+- Recommend consulting a qualified healthcare professional.
+- Suggest gentle practices only if the context supports it, without making medical claims.
+
+Examples of unsafe requests:
+- “Can yoga cure my disease?”
+- “Which pose will heal my injury?”
+- “What medication should I take along with yoga?”
+
+Safe alternative responses should include:
+- General yoga benefits
+- Stress reduction practices
+- Beginner-friendly guidelines
+- Encouragement to seek medical help for serious concerns
