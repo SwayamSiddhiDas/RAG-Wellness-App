@@ -1,4 +1,4 @@
-# app/pipeline.py
+
 import time
 from app.chunking import chunk_text
 from app.embeddings_store import EmbeddingStore
