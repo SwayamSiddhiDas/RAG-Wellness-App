@@ -1,4 +1,3 @@
-# app/logger.py
 import json
 from datetime import datetime
 from app.config import LOG_FILE
