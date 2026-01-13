@@ -1,4 +1,3 @@
-# app/generator.py
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 from app.config import LOCAL_LLM_NAME
 
