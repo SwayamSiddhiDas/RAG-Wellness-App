@@ -1,4 +1,4 @@
-# app/safety.py
+
 HIGH_RISK_KEYWORDS = [
     "cure", "diagnose", "treatment", "medicine", "medication",
     "depression", "anxiety", "panic", "suicidal",
