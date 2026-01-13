@@ -1,4 +1,4 @@
-# app/chunking.py
+
 from app.config import CHUNK_SIZE_WORDS, CHUNK_OVERLAP_WORDS
 
 def chunk_text(text: str, chunk_size: int = CHUNK_SIZE_WORDS, overlap: int = CHUNK_OVERLAP_WORDS):
