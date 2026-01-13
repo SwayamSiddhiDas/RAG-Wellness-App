@@ -1,4 +1,4 @@
-# app/config.py
+
 LOG_FILE = "logs.jsonl"
 
 # Embedding model
