@@ -142,6 +142,3 @@ If a user asks for medical help, the system will refuse and recommend consulting
 - “Should I stop medicine if I do yoga?”
 
 ---
-
-## 8) License
-MIT (you can change this if needed)
