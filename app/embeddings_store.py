@@ -1,4 +1,4 @@
-# app/embeddings_store.py
+
 import numpy as np
 import faiss
 from sentence_transformers import SentenceTransformer
