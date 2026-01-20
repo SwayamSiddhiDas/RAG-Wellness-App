@@ -1,4 +1,4 @@
-# NextYou – “Ask Me Anything” Wellness RAG Micro-App 
+#  Wellness RAG Micro-App 
 
 This project implements a **Retrieval-Augmented Generation (RAG)** based wellness/yoga assistant titled **“Ask Me Anything”**.
 
